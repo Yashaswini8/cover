@@ -1,4 +1,6 @@
 # Ex.06 Book Front Cover Page Design
+## Name:Yashaswini.S
+## Register N0:212224220123
 ## Date:1-5-2025
 
 ## AIM:
